@@ -1,5 +1,5 @@
 ---
-title: "The Basics of agent-based modeling"
+title: "The Basics of Agent-Based Modeling"
 author: "David Garcia"
 date: "Computational Modelling of Social Systems"
 output:
@@ -59,8 +59,8 @@ Github: [dgarcia-eu](https://github.com/dgarcia-eu)
 Email: david.garcia@uni-konstanz.de
 ]
 
-- Professor for Computational Behavioral and Social Sciences, TU Graz
 - Professor for Social and Behavioral Data Science, University of Konstanz
+- Professor for Computational Behavioral and Social Sciences, TU Graz
 - Faculty member of the Complexity Science Hub Vienna
 - Privatdozent at ETH Zurich
 
@@ -173,7 +173,7 @@ knitr::include_graphics("Figures/Interdisciplinarity.svg")
 
 - Agents are *active*: they have a behavioral repertoire, are not just particles
 
-- Agents might have access only to *limited informtion* in their environment
+- Agents might have access only to *limited information* in their environment
 
 - Agents might have *internal goals* that determine their behavior and can *adapt* to the behavior of other agents or the environment
 
@@ -428,6 +428,14 @@ Coding is not necessary but reimplementing a model from a paper is a great start
 
 The course does not include coding exercises, feel free to use any language.
 
+---
+# Articles for student presentations
+- Check https://github.com/dgarcia-eu/CMSS-Konstanz for article suggestions
+- You can find your own paper too. Choose by email to me by 22.12.
+- No paper can be presented by two students: First-come first-served
+- Your presentation date will be chosen at random and announced next week. Date swaps are allowed by agreement of both students.
+
+.center[![:scale 80%](Figures/Articles.png)]
 ---
 
 # Summary
