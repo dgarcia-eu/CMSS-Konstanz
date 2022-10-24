@@ -15,7 +15,7 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 1. [**Basics of agent-based modelling: the micro-macro gap**](https://dgarcia-eu.github.io/CMSS-Konstanz/01_Introduction/Introduction.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/01_Introduction/Slides/Slides.html) (24.10.2022)
 
-2. [**Modelling segregation: Schelling's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/01_Segregation/Segregation.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Slides/Slides.html) (31.10.2022)
+2. [**Modelling segregation: Schelling's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Segregation.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Slides/Slides.html) (31.10.2022)
 
 3. **Modelling cultures: Axelrod's model** (7.11.2022)
 
