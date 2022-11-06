@@ -21,7 +21,7 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 4. [**Basics of spreading: Granovetter's threshold model**](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/BasicSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/Slides/Slides.html) (14.11.2022)
 
-5. **Opinion dynamics** (21.11.2022)
+5. [**Opinion dynamics**](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/OpinionDynamics.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/Slides/Slides.html) (21.11.2022)
 
 6. **Modelling small worlds** (28.11.2022)
 

@@ -9,9 +9,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="David Garcia" />
 
 
-<title>README</title>
+<title>Opinion Dynamics</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -298,8 +299,8 @@ pre code {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -307,9 +308,16 @@ pre code {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
+  content: "";
   border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -354,144 +362,30 @@ pre code {
 
 
 
+<h1 class="title toc-ignore">Opinion Dynamics</h1>
+<h3 class="subtitle">Computational Modelling of Social Systems</h3>
+<h4 class="author">David Garcia</h4>
 
 </div>
 
 
-<div id="computational-modelling-social-systems-at-the-university-of-konstanz" class="section level1">
-<h1>Computational Modelling Social Systems at the University of
-Konstanz</h1>
-<p><a href="http://dgarcia.eu">David Garcia</a>, 2022</p>
-<p>Welcome to the online materials for Computational Modelling of Social
-Systems at the University of Konstanz. In this course, you will learn
-how to formulate and analyze computational models of social systems, in
-particular to study social interaction and the behavior of large groups
-of people and whole societies. The course integrates content about
-social dynamics and analytic tools to understand the complex behavior of
-social systems.</p>
-<div id="who-am-i" class="section level2">
-<h2>Who am I?</h2>
-<p>I am the Professor for Social and Behavioral Data Science at the
-University of Konstanz. I am also group leader at the Complexity Science
-Hub Vienna and teach at TU Graz and ETH Zurich. My background is
-Computer Science but I worked my whole career with psychologists,
-sociologists and physicists to learn new ways to understand human
-behavior. I got my PhD from ETH Zurich in 2012 and a habilitation in
-2018, starting to work as full professor in Konstanz in 2022. To learn
-more about my research, check my <a href="https://dgarcia.eu/full-publication-list/">publications</a>.</p>
-</div>
-<div id="course-contents" class="section level2">
-<h2>Course Contents</h2>
-<p>The course is composed of an initial set of 9 lectures to provide an
-overview and examples of computational modelling of social systems,
-followed by 5 interactive sessions in which students present existing
-work in computational modelling of social systems.</p>
-<div id="lecture-sessions" class="section level3">
-<h3>Lecture sessions</h3>
-<ol style="list-style-type: decimal">
-<li><p><a href="https://dgarcia-eu.github.io/CMSS-Konstanz/01_Introduction/Introduction.html"><strong>Basics
-of agent-based modelling: the micro-macro gap</strong></a> – <a href="https://dgarcia-eu.github.io/CMSS-Konstanz/01_Introduction/Slides/Slides.html">[Slides]</a>
-(24.10.2022)</p></li>
-<li><p><a href="https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Segregation.html"><strong>Modelling
-segregation: Schelling’s model</strong></a> – <a href="https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Slides/Slides.html">[Slides]</a>
-(31.10.2022)</p></li>
-<li><p><a href="https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Culture.html"><strong>Modelling
-cultures: Axelrod’s model</strong></a> – <a href="https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Slides/Slides.html">[Slides]</a>
-(7.11.2022)</p></li>
-<li><p><a href="https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/BasicSpreading.html"><strong>Basics
-of spreading: Granovetter’s threshold model</strong></a> – <a href="https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/Slides/Slides.html">[Slides]</a>
-(14.11.2022)</p></li>
-<li><p><a href="https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/OpinionDynamics.html"><strong>Opinion
-dynamics</strong></a> – <a href="https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/Slides/Slides.html">[Slides]</a>
-(21.11.2022)</p></li>
-<li><p><strong>Modelling small worlds</strong> (28.11.2022)</p></li>
-<li><p><strong>Scale-free networks</strong> (5.12.2022)</p></li>
-<li><p><strong>Resilience in social networks</strong>
-(12.12.2022)</p></li>
-<li><p><strong>Growth processes and spreading in networks</strong>
-(19.12.2022)</p></li>
-</ol>
-</div>
-</div>
-<div id="suggested-articles-to-present" class="section level2">
-<h2>Suggested articles to present</h2>
-<p>Up to the last lecture in December, each student needs to choose one
-paper on computational modelling to present during the second part of
-the course. Below are some examples but you can propose other articles.
-No article can be presented twice in the same semester, this will be
-coordinated during the course. Some paper examples:</p>
+<div id="readings" class="section level3">
+<h3>Readings</h3>
 <ul>
-<li><a href="https://www.jasss.org/23/3/5.html">A Weighted Balance Model
-of Opinion Hyperpolarization. Simon Schweighofer, Frank Schweitzer,
-David Garcia (2020)</a></li>
-<li><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011012">Emergence
-of Polarized Ideological Opinions in Multidimensional Topic Spaces.
-Fabian Baumann, Philipp Lorenz-Spreen, Igor M. Sokolov, and Michele
-Starnini (2021)</a></li>
-<li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074516">Differentiation
-without Distancing. Explaining Bi-Polarization of Opinions without
-Negative Influence. Michael Mäs, Andreas Flache (2013)</a></li>
-<li><a href="https://www.science.org/doi/full/10.1126/science.1210280">Uninformed
-Individuals Promote Democratic Consensus in Animal Groups. Iain Couzin
-et al. (2011)</a></li>
-<li><a href="https://www.worldscientific.com/doi/abs/10.1142/S0219525918500145">Talent
-versus luck: The role of randomness in success and failure. Alessandro
-Pluchino, Alessio Biondo, Andrea Rapisarda (2018)</a></li>
-<li><a href="https://psycnet.apa.org/buy/1990-28235-001">From Private
-Attitude to Public Opinion: A Dynamic Theory of Social Impact. Andrey
-Nowak, Jacek Szamrej, Bibb Latané (1990)</a></li>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.1217220110">Biased
-assimilation, homophily, and the dynamics of polarization. Pranav
-Dandekar, Ashish Goel, and David Lee (2013)</a></li>
-<li><a href="https://www.pnas.org/doi/full/10.1073/pnas.082090499">A
-simple model of global cascades on random networks. Duncan Watts
-(2002)</a></li>
-<li><a href="https://www.nature.com/articles/s41467-022-28170-6">Assessing the
-impact of SARS-CoV-2 prevention measures in Austrian schools using
-agent-based simulations and cluster tracing data. Lasser et
-al. (2022)</a></li>
-<li><a href="https://www.nature.com/articles/s41467-022-31766-7">Stress-testing
-the resilience of the Austrian healthcare system using agent-based
-simulation. Kaleta et al. (2022)</a></li>
-<li><a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0712">Coupled
-catastrophes: sudden shifts cascade and hop among interdependent
-systems. Charles D. Brummitt, George Barnett, Raissa M. D’Souza
-(2015)</a></li>
-<li><a href="https://iopscience.iop.org/article/10.1088/1742-5468/aa7a3f">Emergent
-network modularity. Pavel Krapivsky and Sidney Redner (2017)</a></li>
-<li><a href="https://arxiv.org/pdf/2112.11001.pdf">Friend of a friend
-models of network growth. Watson Levens, Alex Szorkovszky, and David J.
-T. Sumpter (2022)</a></li>
-<li><a href="https://www.science.org/doi/full/10.1126/science.1167782">Explosive
-percolation in random networks. Dimitris Achlioptas, Raissa M D’Souza,
-Joel Spencer (2009)</a></li>
-<li><a href="https://psycnet.apa.org/fulltext/2022-42344-002.html">Social
-Sampling and Expressed Attitudes: Authenticity Preference and Social
-Extremeness Aversion Lead to Social Norm Effects and Polarization.
-Gordon D. A. Brown, Stephan Lewandowsky, Zhihong Huang (2022)</a></li>
-<li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.228701">Emergence
-of Communities in Weighted Networks. Jussi M. Kumpula, Jukka-Pekka
-Onnela, Jari Saramäki, Kimmo Kaski, and János Kertész (2007)</a></li>
-<li><a href="https://arxiv.org/abs/2003.10222">Proximity: a recipe to
-break the outbreak. Marco Faggian, Michele Urbani, Luca Zanotto
-(2020)</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0378437113009904">The
-Simmel effect and babies’ names. M.J.Krawczyk, A.Dydejczyk, K.Kułakowski
-(2014)</a></li>
-<li><a href="https://www.nature.com/articles/srep05679">The role of
-endogenous and exogenous mechanisms in the formation of R&amp;D
-networks. Mario V. Tomasello, Nicola Perra, Claudio J. Tessone, Márton
-Karsai &amp; Frank Schweitzer (2014)</a></li>
+<li><a href="https://www.worldscientific.com/doi/abs/10.1142/S0219525900000078">Mixing
+beliefs among interacting agents. Guillaume Deffuant, David Neau,
+Frederic Amblard and Gerard Weisbuch. Advances in Complex Systems
+(2000)</a></li>
 </ul>
 </div>
-<div id="course-grading" class="section level2">
-<h2>Course grading</h2>
-<p>Students select a published article from a set of readings to present
-in the second part and to write a review of the article as final report.
-The course grade is based on the student presentation (50%),
-participation in discussions after each presentation (20%), and on the
-report (30%).</p>
-</div>
+<div id="additional-readings" class="section level3">
+<h3>Additional readings</h3>
+<ul>
+<li><a href="https://iopscience.iop.org/article/10.1088/1742-5468/2010/06/P06005">Tipping
+diffusivity in information accumulation systems: more links, less
+consensus. Jae K Shin and Jan Lorenz Journal of Statistical Mechanics:
+Theory and Experiment (2010)</a></li>
+</ul>
 </div>
 
 
