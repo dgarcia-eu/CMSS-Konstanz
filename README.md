@@ -17,7 +17,7 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 2. [**Modelling segregation: Schelling's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Segregation.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Slides/Slides.html) (31.10.2022)
 
-3. **Modelling cultures: Axelrod's model** (7.11.2022)
+3. [**Modelling cultures: Axelrod's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Culture.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Slides/Slides.html) (7.11.2022)
 
 4. **Basics of spreading: Granovetter's threshold model** (14.11.2022)
 
