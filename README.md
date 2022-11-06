@@ -19,7 +19,7 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 3. [**Modelling cultures: Axelrod's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Culture.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Slides/Slides.html) (7.11.2022)
 
-4. **Basics of spreading: Granovetter's threshold model** (14.11.2022)
+4. [**Basics of spreading: Granovetter's threshold model**](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/BasicSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/Slides/Slides.html) (14.11.2022)
 
 5. **Opinion dynamics** (21.11.2022)
 
