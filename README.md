@@ -23,13 +23,13 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 5. [**Opinion dynamics**](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/OpinionDynamics.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/Slides/Slides.html) (21.11.2022)
 
-6. **Modelling small worlds** (28.11.2022)
+6. [**Modelling small worlds**](https://dgarcia-eu.github.io/CMSS-Konstanz/06_SmallWorlds/SmallWorlds.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/06_SmallWorlds/Slides/Slides.html) (28.11.2022)
 
-7. **Scale-free networks** (5.12.2022)
+7. [**Scale-free networks**](https://dgarcia-eu.github.io/CMSS-Konstanz/07_ScaleFreeNetworks/ScaleFreeNetworks.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/07_ScaleFreeNetworks/Slides/Slides.html) (5.12.2022)
 
-8. **Resilience in social networks** (12.12.2022)
+8. [**Resilience in social networks**](https://dgarcia-eu.github.io/CMSS-Konstanz/08_SocialResilience/SocialResilience.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/08_SocialResilience/Slides/Slides.html) (12.12.2022)
 
-9. **Growth processes and spreading in networks** (19.12.2022)
+9. [**Growth processes and spreading in networks**](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/GrowthAndSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/Slides/Slides.html) (19.12.2022)
 
 
 ## Suggested articles to present
