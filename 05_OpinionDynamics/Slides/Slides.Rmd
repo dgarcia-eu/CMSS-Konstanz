@@ -157,7 +157,7 @@ knitr::include_graphics("Figures/voter.svg")
 
   
 - Model limitations/drawbacks
-  - very limited social/biological interpretation (remember Social Impact Theory)
+  - very limited social/biological interpretation (e.g. Social Impact Theory)
   - what about coexistence of opinions? The reality is not always consensus
 
 
