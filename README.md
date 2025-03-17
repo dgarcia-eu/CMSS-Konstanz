@@ -21,7 +21,7 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 2. [**Modelling segregation: Schelling's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Segregation.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Slides/Slides.html) (15.04.2025)
 
-3. [**Modelling cultures: Axelrod's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Culture.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Slides/Slides.html) (25.04.202 -- Friday, no session on 22.04)
+3. [**Modelling cultures: Axelrod's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Culture.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Slides/Slides.html) (25.04.202 -- Friday, D406, no session on 22.04)
 
 4. [**Basics of collectives: Granovetter's threshold model**](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/BasicSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/Slides/Slides.html) (29.04.2025)
 
@@ -35,10 +35,9 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 9. **In Silico Social Science: ABM and LLMs**  (3.06.2025)
 
+*No lecture on 10.06 nor 17.06*
 
-No lecture on 10.06
-
-Student presentation sessions: 24.06, 1.07, 8.07, 15.07
+**Student presentation sessions:** 24.06, 1.07, 8.07, 15.07
 
 
 ## Suggested articles to present
