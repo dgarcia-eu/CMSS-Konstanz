@@ -6,37 +6,45 @@ In this course, you will learn how to formulate and analyze computational models
 
 ## Who am I?
 
-I am the Professor for Social and Behavioral Data Science at the University of Konstanz.  I am also group leader at the Complexity Science Hub Vienna and teach at TU Graz and ETH Zurich. My background is Computer Science but I worked my whole career with psychologists, sociologists and physicists to learn new ways to understand human behavior. I got my PhD from ETH Zurich in 2012 and a habilitation in 2018, starting to work as full professor in Konstanz in 2022. To learn more about my research, check my [publications](https://dgarcia.eu/full-publication-list/). 
+I am the Professor for Social and Behavioral Data Science at the University of Konstanz. You can find more about my research group 
+here: http://dgarcia.eu. My background is Computer Science but I worked my whole career with psychologists, sociologists and physicists 
+to learn new ways to understand human behavior. I got my PhD from ETH Zurich in 2012 and a habilitation in 2018, starting to work as 
+full professor TU Graz in 2020 and then at the University of Konstanz in 2022. To learn more about my research, check my 
+[publications](https://dgarcia.eu/full-publication-list/).
 
 ## Course Contents
 The course is composed of an initial set of 9 lectures to provide an overview and examples of computational modelling of social systems, followed by 5 interactive sessions in which students present existing work in computational modelling of social systems.
 
 ### Lecture sessions
 
-1. [**Basics of agent-based modelling: the micro-macro gap**](https://dgarcia-eu.github.io/CMSS-Konstanz/01_Introduction/Introduction.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/01_Introduction/Slides/Slides.html) (24.10.2022)
+1. [**Basics of agent-based modelling: The micro-macro gap**](https://dgarcia-eu.github.io/CMSS-Konstanz/01_Introduction/Introduction.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/01_Introduction/Slides/Slides.html) (8.04.2025)
 
-2. [**Modelling segregation: Schelling's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Segregation.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Slides/Slides.html) (31.10.2022)
+2. [**Modelling segregation: Schelling's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Segregation.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/02_Segregation/Slides/Slides.html) (15.04.2025)
 
-3. [**Modelling cultures: Axelrod's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Culture.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Slides/Slides.html) (7.11.2022)
+3. [**Modelling cultures: Axelrod's model**](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Culture.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/03_Culture/Slides/Slides.html) (25.04.202 -- Friday, no session on 22.04)
 
-4. [**Basics of spreading: Granovetter's threshold model**](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/BasicSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/Slides/Slides.html) (14.11.2022)
+4. [**Basics of collectives: Granovetter's threshold model**](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/BasicSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/04_BasicSpreading/Slides/Slides.html) (29.04.2025)
 
-5. [**Opinion dynamics**](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/OpinionDynamics.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/Slides/Slides.html) (21.11.2022)
+5. [**Opinion dynamics: Consensus and fragmentation**](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/OpinionDynamics.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/Slides/Slides.html) (6.05.2025)
 
-6. [**Modelling small worlds**](https://dgarcia-eu.github.io/CMSS-Konstanz/06_SmallWorlds/SmallWorlds.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/06_SmallWorlds/Slides/Slides.html) (28.11.2022)
+6. **Opinion dynamics: Polarization and alignment**  (13.05.2025)
 
-7. [**Scale-free networks**](https://dgarcia-eu.github.io/CMSS-Konstanz/07_ScaleFreeNetworks/ScaleFreeNetworks.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/07_ScaleFreeNetworks/Slides/Slides.html) (5.12.2022)
+7. [**Growth processes and spreading**](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/GrowthAndSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/Slides/Slides.html) (20.05.2025)
 
-8. [**Resilience in social networks**](https://dgarcia-eu.github.io/CMSS-Konstanz/08_SocialResilience/SocialResilience.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/08_SocialResilience/Slides/Slides.html) (12.12.2022)
+8.  **Modelling social networks: small worlds and preferential attachment** (27.05.2025)
 
-9. [**Growth processes and spreading in networks**](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/GrowthAndSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/Slides/Slides.html) (19.12.2022)
+9. **In Silico Social Science: ABM and LLMs**  (3.06.2025)
+
+
+No lecture on 10.06
+
+Student presentation sessions: 24.06, 1.07, 8.07, 15.07
 
 
 ## Suggested articles to present
 
-Up to the last lecture in December, each student needs to choose one paper on computational modelling to present during the second part of the course. Below are some examples but you can propose other articles. No article can be presented twice in the same semester, this will be coordinated during the course. Some paper examples:
+Up to the ninth lecture, each student needs to choose one paper on computational modelling to present during the second part of the course. Below are some examples but you can propose other articles. No article can be presented twice in the same semester, this will be coordinated during the course. Some paper examples:
 
-- [A Weighted Balance Model of Opinion Hyperpolarization. Simon Schweighofer, Frank Schweitzer, David Garcia (2020)](https://www.jasss.org/23/3/5.html)
 - [Emergence of Polarized Ideological Opinions in Multidimensional Topic Spaces. Fabian Baumann, Philipp Lorenz-Spreen, Igor M. Sokolov, and Michele Starnini (2021)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011012)
 - [Differentiation without Distancing. Explaining Bi-Polarization of Opinions without Negative Influence. Michael Mäs, Andreas Flache (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074516)
 - [Uninformed Individuals Promote Democratic Consensus in Animal Groups. Iain Couzin et al. (2011)](https://www.science.org/doi/full/10.1126/science.1210280)
