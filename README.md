@@ -33,7 +33,7 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 8.  **Modelling social networks: small worlds and preferential attachment** (27.05.2025)
 
-9. **In Silico Social Science: ABM and LLMs**  (3.06.2025)
+9. **In Silico Social Science and Responsible AI: ABM with LLMs**  (3.06.2025)
 
 *No lecture on 10.06 nor 17.06*
 
