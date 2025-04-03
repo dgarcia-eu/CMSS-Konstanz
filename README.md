@@ -1,5 +1,5 @@
 # Computational Modelling Social Systems at the University of Konstanz
-[David Garcia](http://dgarcia.eu), 2022
+[David Garcia](http://dgarcia.eu)
 
 Welcome to the online materials for Computational Modelling of Social Systems at the University of Konstanz.
 In this course, you will learn how to formulate and analyze computational models of social systems, in particular to study social interaction and the behavior of large groups of people and whole societies. The course integrates content about social dynamics and analytic tools to understand the complex behavior of social systems.
@@ -35,7 +35,9 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 9. **In Silico Social Science and Responsible AI: ABM with LLMs**  (3.06.2025)
 
-*No lecture on 10.06 nor 17.06*
+Project guidance session: 10.06.2025
+
+*No lecture on   17.06*
 
 **Student presentation sessions:** 24.06, 1.07, 8.07, 15.07
 
