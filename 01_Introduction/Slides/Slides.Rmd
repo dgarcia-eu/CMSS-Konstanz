@@ -163,6 +163,31 @@ knitr::include_graphics("Figures/Interdisciplinarity.svg")
 
 # Agent-Based Modelling (ABM)
 
+.pull-left[![:scale 100%](Figures/ABM1.svg)]
+
+.pull-right[
+*Agent-Based Model:* A computational analogy of a social system that is composed of a set of agents that represent *discrete* individuals
+
+Agents have internal states, perceive the actions of other agents, and interact with other agents and their environment (*situated*)
+]
+---
+
+
+# Agent-Based Modelling (ABM)
+
+.pull-left[![:scale 100%](Figures/ABM2.svg)]
+
+.pull-right[
+Agents are *active*: they have a behavioral repertoire, are not just particles
+  
+Agents might have access only to *limited information* in their environment
+
+Agents might have *internal goals* that determine their behavior and can *adapt* to the behavior of other agents or the environment
+]
+---
+
+# Agent-Based Modelling (ABM)
+
 - Agent-Based Model: A computational analogy of a social system that is composed of a set of agents that represent *discrete* individuals
 
 - Agents have internal states, perceive the actions of other agents, and interact with other agents and their environment (*situated*)
@@ -177,12 +202,12 @@ knitr::include_graphics("Figures/Interdisciplinarity.svg")
 
 ---
 
-# Explaining behavior with ABM
+# Important point 1: ABM are explanations
 
-- Observed collective behavior or effects are *explananda*: empirical facts that are missing an explanation.
+- Observed collective behavior or effects are **explananda**: empirical facts that are missing an explanation.
   - Example: hotter days have higher average crime rates
 
-- ABM offer *explanations*: theories that generate the observed behavior and link it to other empirical facts
+- ABM offer **explanations**: theories that generate the observed behavior and link it to other empirical facts
   - Example: heat makes people be longer in the street, facilitating crime
 
 - ABM are part of a larger theoretical approach called *Analytical Sociology*, where everything in a model of social behavior must be explicit
@@ -190,9 +215,8 @@ knitr::include_graphics("Figures/Interdisciplinarity.svg")
   
 ---
 
-# Explaining behavior with ABM
+# 2: ABM are not empirical evidence
 
-**ABM do not provide empirical evidence**
   - Simulation results alone are not evidence that humans behave in one way or another. Beware of causal conclusions based on ABM alone!
 
   - They can **generate hypotheses**, for example on the consequences of policies in simulations or formulate predictions
@@ -203,9 +227,7 @@ knitr::include_graphics("Figures/Interdisciplinarity.svg")
   
 ---
 
-## Computational theory instead of exploration
-
-**ABM are for analysis, not just exploration**
+## 3: ABM are for analysis, not just exploration
 
 - Exploring what happens in a simulation is fine, but ABM can do much more!
 
@@ -423,21 +445,21 @@ sciences
 - Exercise 4: Network growth
 
 
-- Tutorial session from 26.06 can be used to work and get feedback on projects reports and presentations
+- Tutorial sessions from 26.06 can be used to work and get feedback on projects reports and presentations
 
 ---
 
 # Course assessment
 
-Students select a published article from a set of readings to present in the second part and to
-write a *review of the article* as final report. 
+Students select a published article from a set of readings to present in the second part and to work on a project reviewing the results of the article or working on an extension. 
 
 The course grade is based on:
+
 - the student presentation (50%)
 - participation in discussions after each presentation (20%)
 - and on the report (30%)
 
-Presentations and reports should show computational insight, for example by reimplementing the model or a (simplified) version of it. Coding language is up to the choice of the student and code is not reviewed for grading. We recommend python to build on the tutorials.
+Presentations and reports should show computational insight, for example by reimplementing the model or a (simplified) version of it. Coding language is free choice but I recommend Python.
 
 Deadline for final reports: September 1st, 2025
 
