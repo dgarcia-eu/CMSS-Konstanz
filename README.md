@@ -46,20 +46,20 @@ Project guidance session: 10.06.2025
 
 After the lectures, tutorial sessions will help consolidate and deepen the course content. Here is the schedule:
 
-- **10.04.2025** — Intro Mesa 1  
-- **17.04.2025** — Intro Mesa 2  
-- **24.04.2025** — Schelling’s Model 1  
-- **05.05.2025** — Schelling’s Model 2  
-- **08.05.2025** — Granovetter’s Model 1  
-- **15.05.2025** — Granovetter’s Model 2  
-- **22.05.2025** — Opinion Dynamics 1  
-- **02.06.2025** — Opinion Dynamics 2  
-- **06.06.2025** — Network Simulation 1  
-- **12.06.2025** — Network Simulation 2 + LLMs  
-- **26.06.2025** — Project support and emerging topics  
-- **03.07.2025** — Project support and emerging topics  
-- **10.07.2025** — Project support and emerging topics  
-- **17.07.2025** — Project support and emerging topics
+- **10.04.2025 10:00 - 11:30 G227a** — Intro Mesa 1  
+- **17.04.2025 10:00 - 11:30 G227a** — Intro Mesa 2 
+- **24.04.2025 10:00 - 11:30 G227a** — Schelling’s Model 1 
+- **05.05.2025 15:15 - 16:45 G421** — Schelling’s Model 2  
+- **08.05.2025 10:00 - 11:30 G227a** — Granovetter’s Model 1  
+- **15.05.2025 10:00 - 11:30 G227a** — Granovetter’s Model 2  
+- **22.05.2025 10:00 - 11:30 G227a** — Opinion Dynamics 1  
+- **02.06.2025 15:15 - 16:45 G421** — Opinion Dynamics 2 
+- **06.06.2025 10:00 - 11:30 G227a** — Network Simulation 1  
+- **12.06.2025 10:00 - 11:30 G227a** — Network Simulation 2 + LLMs 
+- **26.06.2025 10:00 - 11:30 G227a** — Project support and emerging topics 
+- **03.07.2025 10:00 - 11:30 G227a** — Project support and emerging topics 
+- **10.07.2025 10:00 - 11:30 G227a** — Project support and emerging topics  
+- **17.07.2025 10:00 - 11:30 G227a** — Project support and emerging topics 
 
   
 ## Suggested articles to present
