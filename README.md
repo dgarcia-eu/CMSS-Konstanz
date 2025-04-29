@@ -42,6 +42,26 @@ Project guidance session: 10.06.2025
 **Student presentation sessions:** 24.06, 1.07, 8.07, 15.07
 
 
+### Tutorial Sessions
+
+After the lectures, tutorial sessions will help consolidate and deepen the course content. Here is the schedule:
+
+- **10.04.2025** — Intro Mesa 1  
+- **17.04.2025** — Intro Mesa 2  
+- **24.04.2025** — Schelling’s Model 1  
+- **05.05.2025** — Schelling’s Model 2  
+- **08.05.2025** — Granovetter’s Model 1  
+- **15.05.2025** — Granovetter’s Model 2  
+- **22.05.2025** — Opinion Dynamics 1  
+- **02.06.2025** — Opinion Dynamics 2  
+- **06.06.2025** — Network Simulation 1  
+- **12.06.2025** — Network Simulation 2 + LLMs  
+- **26.06.2025** — Project support and emerging topics  
+- **03.07.2025** — Project support and emerging topics  
+- **10.07.2025** — Project support and emerging topics  
+- **17.07.2025** — Project support and emerging topics
+
+  
 ## Suggested articles to present
 
 Up to the ninth lecture, each student needs to choose one paper on computational modelling to present during the second part of the course. Below are some examples but you can propose other articles. No article can be presented twice in the same semester, this will be coordinated during the course. Some paper examples:
