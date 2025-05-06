@@ -27,7 +27,9 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 5. [**Opinion dynamics: Consensus and fragmentation**](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/OpinionDynamics.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/05_OpinionDynamics/Slides/Slides.html) (6.05.2025)
 
-6. **Opinion dynamics: Polarization and alignment**  (13.05.2025)
+6. **Opinion dynamics: Polarization and alignment**  (13.05.2025)  Flipped classroom on two papers:
+  - [Raising the Spectrum of Polarization: Generating Issue Alignment with a Weighted Balance Opinion Dynamics Model](https://www.jasss.org/27/1/15.html)
+  - [Emergence of Polarized Ideological Opinions in Multidimensional Topic Spaces](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011012)
 
 7. [**Growth processes and spreading**](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/GrowthAndSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/Slides/Slides.html) (20.05.2025)
 
