@@ -31,17 +31,29 @@ The course is composed of an initial set of 9 lectures to provide an overview an
   - [Raising the Spectrum of Polarization: Generating Issue Alignment with a Weighted Balance Opinion Dynamics Model](https://www.jasss.org/27/1/15.html)
   - [Emergence of Polarized Ideological Opinions in Multidimensional Topic Spaces](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011012)
 
-7. [**Growth processes and spreading**](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/GrowthAndSpreading.html) -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/Slides/Slides.html) (20.05.2025)
+7. **Network models and Growth processes** (20.05.2025)
+  - [Slides for network models: small worlds](https://dgarcia-eu.github.io/CMSS-Konstanz/06_SmallWorlds/Slides/Slides.html)
+  - [Slides for growth processes (first part)](https://dgarcia-eu.github.io/CMSS-Konstanz/09_GrowthAndSpreading/Slides/Slides.html)
 
-8.  **Modelling social networks: small worlds and preferential attachment** (27.05.2025)
+8. **Network models: preferential attachment** (27.05.2025) Flipped classroom on two papers:
+  - [Emergence of Scaling in Random Networks](https://www.science.org/doi/full/10.1126/science.286.5439.509)
+  - [Network growth by copying](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.036118)
 
-9. **In Silico Social Science and Responsible AI: ABM with LLMs**  (3.06.2025)
+9. **LLMs to model human behavior** (3.06.2025)
 
-Project guidance session: 10.06.2025
+10. **In Silico Social Science and Responsible AI: ABM with LLMs** (10.06.2025) Flipped classroom on two papers:
+  - [Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms](https://arxiv.org/abs/2310.05984)
+  - [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581)
 
-*No lecture on   17.06*
+11. Project guidance session (extra session 10.06.2025, 15:15, D338)
 
-**Student presentation sessions:** 24.06, 1.07, 8.07, 15.07
+*No lecture on 17.06 and 24.06*
+
+12. Student presentations day 1 (01.07.2025)
+
+13. Student presentations day 2 (08.07.2025)
+
+14. Student presentations day 3 (15.07.2025)
 
 
 ### Tutorial Sessions
