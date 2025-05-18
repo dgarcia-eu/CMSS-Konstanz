@@ -55,6 +55,7 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 14. Student presentations day 3 (15.07.2025)
 
+Student sessions plan: https://docs.google.com/document/d/1tJKcmWcdR-a_r8MJgj0SfoJ9MWDh8tVfWJxAEBpqqnw/
 
 ### Tutorial Sessions
 
