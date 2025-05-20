@@ -41,11 +41,12 @@ The course is composed of an initial set of 9 lectures to provide an overview an
 
 9. **LLMs to model human behavior** (3.06.2025)
 
-10. **In Silico Social Science and Responsible AI: ABM with LLMs** (10.06.2025) Flipped classroom on two papers:
+10. Project guidance session (extra session 03.06.2025, 15:15, D338)
+
+11. **In Silico Social Science and Responsible AI: ABM with LLMs** (10.06.2025) Flipped classroom on two papers:
   - [Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms](https://arxiv.org/abs/2310.05984)
   - [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581)
 
-11. Project guidance session (extra session 10.06.2025, 15:15, D338)
 
 *No lecture on 17.06 and 24.06*
 
