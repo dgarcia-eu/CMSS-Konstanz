@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>LLMs to model human behavior</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="David Garcia, University of Konstanz" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="libs/footer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# LLMs to model human behavior
+]
+.author[
+### David Garcia, University of Konstanz
+]
+.date[
+### Computational Modelling of Social Systems
+]
+
+---
+
+
+
+
+
+
+layout: true
+
+&lt;div class="my-footer"&gt;&lt;span&gt;David Garcia - Computational Modelling of Social Systems&lt;/span&gt;&lt;/div&gt; 
+
+---
+
+## So far
+
+- Basics of agent-based modelling: the micro-macro gap
+- Modelling segregation: Schelling's model
+- Modelling cultures: Axelrod's model
+- Basics of spreading: Granovetter's threshold model
+- Opinion dynamics
+- Modelling small worlds
+- Scale-free networks
+
+---
+
+# Overview
+
+## 1. Social simulacra
+
+## 2. Behavioral research on LLMs
+
+## 3. Representing populations with LLMs
+
+## 4. Experiment effects with LLMs
+
+---
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+# 1. Social simulacra
+
+[Generative Agents: Interactive Simulacra of Human Behavior](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)
+
+
+[Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://dl.acm.org/doi/pdf/10.1145/3526113.3545616)
+
+---
+# Simulacra and simulation    
+
+.pull-left[.center[![:scale 60%](figures/Simulacra.png)]]
+![:scale 50%](figures/Matrix.png)
+The Matrix (1999)
+
+---
+
+[Generative Agents: Interactive Simulacra of Human Behavior. JS Park et al.](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)
+
+.center[![:scale 95%](figures/Park1.png)]
+
+---
+# A generative agent design
+
+.center[![:scale 95%](figures/Park2.png)]
+
+---
+
+# Social behavior examples
+.center[![:scale 73%](figures/Park3.png)]
+
+---
+[Social Simulacra: Creating Populated Prototypes for Social Computing Systems. JS Park et al.](https://dl.acm.org/doi/pdf/10.1145/3526113.3545616)
+
+.center[![:scale 88%](figures/Simreddit1.png)]
+
+---
+# Simulating subreddits with LLM agents
+.center[![:scale 80%](figures/Simreddit2.png)]
+
+---
+# Experiment: SimReddit vs Crowdworkers
+.center[![:scale 60%](figures/Simreddit3.png)]
+
+---
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+# 2. Behavioral research on LLMs
+
+
+
+[AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories.](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)
+
+
+[Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models](https://arxiv.org/abs/2503.16148)
+
+---
+
+[AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories. Max Pellert et al.](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)
+
+.center[![:scale 85%](figures/AIpsy1.png)]
+
+--- 
+
+# Personality of Transformer Models
+.center[![:scale 65%](figures/AIpsy2.png)]
+
+---
+
+# Moral foundations of AI and moderates
+.center[![:scale 67%](figures/AIpsy3.png)]
+
+---
+
+[Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models. Röttger et al.](https://arxiv.org/pdf/2402.16786)
+
+.pull-left[![:scale 100%](figures/PCT1.png)]
+.pull-right[![:scale 100%](figures/PCT2.png)]
+
+---
+
+[Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models](https://arxiv.org/abs/2503.16148)
+
+
+.pull-left[![:scale 100%](figures/Mats1.png)]
+.pull-right[![:scale 100%](figures/Mats1.2.png)]
+
+Aims:
+1. Use a validated survey measurement: social and economic items from World Values Survey
+2. Analyze LLM output as text: classification with a transformers model into agree/disagree/neither
+
+---
+
+# Testing prompt robustness
+
+.pull-left[![:scale 100%](figures/Mats2.png)]
+.pull-right[![:scale 100%](figures/Mats2.2.png)]
+
+---
+
+# Ideology in LLMs
+.center[![:scale 87%](figures/Mats3.png)]
+
+
+---
+# Prompt effect examples
+.center[![:scale 70%](figures/Mats4.png)]
+
+
+---
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+# 3. Representing populations with LLMs
+
+[Out of One, Many: Using Language Models to Simulate Human Samples](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)
+
+[Synthetic Replacements for Human Survey Data? The Perils of Large Language Models](https://www.cambridge.org/core/journals/political-analysis/article/synthetic-replacements-for-human-survey-data-the-perils-of-large-language-models/B92267DC26195C7F36E63EA04A47D2FE)
+
+
+---
+[Out of One, Many: Using Language Models to Simulate Human Samples. Lisa Argyle et al.](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)
+
+.center[![](figures/Argyle1.png)]
+
+---
+# Comparing generated words by partisans
+.pull-left[![:scale 100%](figures/Argyle2.png)]
+.pull-right[![:scale 100%](figures/Argyle2.1.png)]
+
+---
+.center[![:scale 60%](figures/Argyle3.png)]
+
+---
+
+# GPT-3 vs ANES
+
+.center[![:scale 82%](figures/Argyle4.png)]
+
+---
+
+# GPT-3 vs ANES
+
+.center[![:scale 92%](figures/Argyle4.2.png)]
+
+---
+
+
+[Synthetic Replacements for Human Survey Data? The Perils of Large Language Models. James Bisbee et al.](https://www.cambridge.org/core/journals/political-analysis/article/synthetic-replacements-for-human-survey-data-the-perils-of-large-language-models/B92267DC26195C7F36E63EA04A47D2FE)
+
+.center[![:scale 54%](figures/Bisbee1.png)]
+
+---
+
+# Prompting for ANES thermometers
+
+.center[![:scale 70%](figures/Bisbee2.png)]
+
+---
+
+# The problem of low variance
+
+.center[![:scale 70%](figures/Bisbee3.png)]
+
+---
+# Low variance among groups
+
+.center[![:scale 70%](figures/Bisbee4.png)]
+
+---
+
+# Only politics matters in the persona
+
+.center[![:scale 70%](figures/Bisbee5.png)]
+
+---
+[Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of LLMs. Indira Sen et al.](https://osf.io/vk3x6/download)
+
+
+.center[![:scale 100%](figures/Sen2.png)]
+
+---
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+# 4. Experiment effects with LLMs
+
+[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://proceedings.mlr.press/v202/aher23a.html)
+
+[Prediciting Results of Social Science Experiments Using Large Language Models](https://docsend.com/view/ity6yf2dansesucf)
+
+---
+
+[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies. Aher et al.](https://proceedings.mlr.press/v202/aher23a.html)
+
+
+.pull-left[![:scale 100%](figures/Aher2.png)]
+.pull-right[![:scale 100%](figures/Aher3.png)]
+
+
+---
+# Replicating Milgram's experiment
+.center[![:scale 100%](figures/Aher1.png)]
+
+---
+[Prediciting Results of Social Science Experiments Using Large Language Models. Ashokkumar et al.](https://docsend.com/view/ity6yf2dansesucf)
+
+.center[![:scale 87%](figures/TE1.png)]
+
+---
+# Real and simulated effect sizes
+
+.center[![:scale 92%](figures/TE2.png)]
+
+---
+
+# Simulating unpublished papers
+
+.center[![:scale 92%](figures/TE3.png)]
+
+---
+
+# Group effects but not heterogeneity
+
+.center[![:scale 100%](figures/TE4.png)]
+
+---
+
+
+
+# Two papers for next week
+
+.pull-left[
+![](figures/Tornberg.png)
+[Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms. Petter Törnberg, Diliara Valeeva, Justus Uitermark, Christopher Bail.](https://arxiv.org/abs/2310.05984)]
+
+
+.pull-right[![](figures/OASIS.png)
+[OASIS: Open Agent Social Interaction Simulations with One Million Agents. Ziyi Yang et al.](https://arxiv.org/abs/2411.11581)
+]
+
+
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="libs/perc.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

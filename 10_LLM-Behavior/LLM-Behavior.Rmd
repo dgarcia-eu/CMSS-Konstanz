@@ -1,0 +1,25 @@
+---
+title: "LLMs to model human behavior"
+subtitle: "Computational Modelling of Social Systems"
+author: "David Garcia"
+output: html_document
+---
+
+### References for this session
+
+
+1. Social simulacra
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)
+- [Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://dl.acm.org/doi/pdf/10.1145/3526113.3545616)
+
+2. Behavioral research on LLMs
+- [AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)
+- [Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models](https://arxiv.org/abs/2503.16148)
+
+3. Representing populations with LLMs
+- [Out of One, Many: Using Language Models to Simulate Human Samples](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)
+- [Synthetic Replacements for Human Survey Data? The Perils of Large Language Models](https://www.cambridge.org/core/journals/political-analysis/article/synthetic-replacements-for-human-survey-data-the-perils-of-large-language-models/B92267DC26195C7F36E63EA04A47D2FE)
+
+4. Experiment effects with LLMs
+- [Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://proceedings.mlr.press/v202/aher23a.html)
+- [Prediciting Results of Social Science Experiments Using Large Language Models](https://docsend.com/view/ity6yf2dansesucf)
