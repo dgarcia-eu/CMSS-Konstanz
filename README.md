@@ -39,7 +39,7 @@ The course is composed of an initial set of 9 lectures to provide an overview an
   - [Emergence of Scaling in Random Networks](https://www.science.org/doi/full/10.1126/science.286.5439.509)
   - [Network growth by copying](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.036118)
 
-9. **LLMs to model human behavior** (3.06.2025)
+9. [**LLMs to model human behavior**](https://dgarcia-eu.github.io/CMSS-Konstanz/10_LLM-Behavior/LLM-Behavior.html)  -- [[Slides]](https://dgarcia-eu.github.io/CMSS-Konstanz/10_LLM-Behavior/Slides/Slides.html) (3.06.2025)
 
 10. Project guidance session (extra session 03.06.2025, 15:15, D338)
 
